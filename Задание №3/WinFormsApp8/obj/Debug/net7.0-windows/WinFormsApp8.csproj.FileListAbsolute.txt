@@ -1,0 +1,17 @@
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net7.0-windows\WinFormsApp8.exe
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net7.0-windows\WinFormsApp8.deps.json
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net7.0-windows\WinFormsApp8.runtimeconfig.json
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net7.0-windows\WinFormsApp8.dll
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\bin\Debug\net7.0-windows\WinFormsApp8.pdb
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.csproj.AssemblyReference.cache
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.Form1.resources
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.csproj.GenerateResource.cache
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.AssemblyInfoInputs.cache
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.AssemblyInfo.cs
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.dll
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\refint\WinFormsApp8.dll
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.pdb
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\WinFormsApp8.genruntimeconfig.cache
+C:\Users\PAPA\source\repos\WinFormsApp8\WinFormsApp8\obj\Debug\net7.0-windows\ref\WinFormsApp8.dll

@@ -1,0 +1,17 @@
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\net7.0-windows\WinFormsApp9.exe
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\net7.0-windows\WinFormsApp9.deps.json
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\net7.0-windows\WinFormsApp9.runtimeconfig.json
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\net7.0-windows\WinFormsApp9.dll
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\bin\Debug\net7.0-windows\WinFormsApp9.pdb
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.csproj.AssemblyReference.cache
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.Form1.resources
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.csproj.GenerateResource.cache
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.AssemblyInfoInputs.cache
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.AssemblyInfo.cs
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.dll
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\refint\WinFormsApp9.dll
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.pdb
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\WinFormsApp9.genruntimeconfig.cache
+C:\Users\PAPA\source\repos\WinFormsApp9\WinFormsApp9\obj\Debug\net7.0-windows\ref\WinFormsApp9.dll
